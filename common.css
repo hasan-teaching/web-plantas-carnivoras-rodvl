@@ -1,0 +1,40 @@
+body {
+    background-image: url('./imagens/fundo.png');
+    background-repeat: repeat;
+    padding: 16px;
+}
+h1 {
+    color:limegreen;
+    font-size: 28px;
+    font-family: "Times New Roman", Times, serif;
+}
+h2 {
+    color:limegreen;
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+img {
+    border: 5px solid limegreen;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    max-width: 600px ;
+}
+
+th, td {
+    text-align: center;
+    padding: 8px;
+    border: 2px solid silver;
+}
+
+.italic {
+    font-style: italic;
+}
